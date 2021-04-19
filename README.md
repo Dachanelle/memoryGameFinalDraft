@@ -7,7 +7,9 @@ Submitted by: Dachanelle Anderson
 
 Time spent: 3hours, 2 minutes hours spent in total
 
-https://momentous-flossy-detail.glitch.me, https://glitch.com/edit/#!/momentous-flossy-detail
+Live Site: https://sheer-tide-guan.glitch.me
+Code: https://glitch.com/edit/#!/sheer-tide-guan
+
 
 Required Functionality
 The following required functionality is complete:
